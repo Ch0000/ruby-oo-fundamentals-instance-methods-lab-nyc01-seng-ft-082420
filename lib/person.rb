@@ -1,6 +1,6 @@
 class Person
 end
 
-Joey Abate = Person.new
-Mickey Carrol = Person.new
-Mckenna Del Rossi = Person.new
+char1 = Person.new(George)
+char2 = Person.new(John)
+char3 = Person.new(Ringo)
